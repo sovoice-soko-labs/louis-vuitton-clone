@@ -1,4 +1,4 @@
 url=https://de.louisvuitton.com/deu-de/produkte/kurzarmeliges-hemd-aus-leichtem-denim-mit-3d-damier-motiv-nvprod7590014v/1AK6HQ
-title=Kurzärmeliges Hemd aus leichtem Denim mit 3D Damier-Motiv - Ready to Wear | LOUIS VUITTON
+title=Kurzärmeliges Hemd aus leichtem Denim mit 3D Damier-Motiv - Ready to Wear 1AK6HQ | LOUIS VUITTON
 blocked=False
 source=browser-extension

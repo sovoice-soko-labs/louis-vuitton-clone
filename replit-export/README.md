@@ -4,9 +4,11 @@ Offline-Klon der LV Ready-to-Wear-Kategorie inkl. **183 Produktseiten** für Rep
 
 ## Replit starten
 
-1. Repo importieren oder `replit-export/` als Root nutzen
-2. Run — öffnet Port 8080
-3. Start: `/herren/ready-to-wear/vollstandige-ready-to-wear/`
+1. Repo **louis-vuitton-clone** importieren (Root = Repo-Root mit `main.py`)
+2. **Run** klicken — Port 8080 wird automatisch geöffnet
+3. Startseite leitet weiter zu `/herren/ready-to-wear/vollstandige-ready-to-wear/`
+
+Alternativ nur `replit-export/` als eigenes Repl nutzen.
 
 ## Lokal
 

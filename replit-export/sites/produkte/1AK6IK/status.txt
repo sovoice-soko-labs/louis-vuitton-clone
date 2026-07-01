@@ -1,4 +1,4 @@
 url=https://de.louisvuitton.com/deu-de/produkte/hose-mit-gepragten-signatur-details-nvprod7590079v/1AK6IK
-title=Hose mit geprägten Signatur-Details - Ready to Wear 1AK6IK | LOUIS VUITTON
+title=Hose mit geprägten Signatur-Details - Ready to Wear | LOUIS VUITTON
 blocked=False
 source=browser-extension

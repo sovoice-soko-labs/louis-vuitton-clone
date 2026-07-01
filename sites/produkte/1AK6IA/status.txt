@@ -1,4 +1,4 @@
 url=https://de.louisvuitton.com/deu-de/produkte/t-shirt-mit-gestickter-signatur-nvprod6490080v/1AK6IA
-title=Kurzarm-T-Shirt mit gestickter Signatur - Ready to Wear 1AK6IA | LOUIS VUITTON
+title=Kurzarm-T-Shirt mit gestickter Signatur - Ready to Wear | LOUIS VUITTON
 blocked=False
 source=browser-extension

@@ -1,4 +1,4 @@
 url=https://de.louisvuitton.com/deu-de/produkte/leichte-hose-aus-leinen-im-workwear-stil-nvprod6320071v/1AK6HI
-title=Leichte Hose aus Leinen im Workwear-Stil - Ready to Wear 1AK6HI | LOUIS VUITTON
+title=Leichte Hose aus Leinen im Workwear-Stil - Ready to Wear | LOUIS VUITTON
 blocked=False
 source=browser-extension

@@ -12,6 +12,7 @@ cookies_raw.json
 repo-tests/
 repo-test-results.json
 static-clone/
+Scrapling/
 
 # Binaries
 goclone
