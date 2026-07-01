@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/produkte/kurzarm-hemd-mit-signatur-und-waffel-struktur-nvprod7590042v/1AK6WY
+title=Kurzarm-Hemd mit Signatur und Waffel-Struktur - Ready to Wear 1AK6WY | LOUIS VUITTON
+blocked=False
+source=browser-extension

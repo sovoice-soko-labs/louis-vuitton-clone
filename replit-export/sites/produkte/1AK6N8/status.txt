@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/produkte/overshirt-aus-ripstop-mit-reiverschluss-und-monogram-motiv-nvprod7590023v/1AK6N8
+title=Overshirt aus Ripstop mit Reißverschluss und Monogram-Motiv - Ready to Wear | LOUIS VUITTON
+blocked=False
+source=browser-extension

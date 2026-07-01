@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/produkte/sommerlicher-hoodie-aus-strick-nvprod7540080v/1AK734
+title=Sommerlicher Hoodie aus Strick - Ready to Wear 1AK734 | LOUIS VUITTON
+blocked=False
+source=browser-extension

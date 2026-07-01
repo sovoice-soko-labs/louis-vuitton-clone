@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/produkte/einreihiges-jackett-aus-leichtem-woll-leinengemisch-nvprod7590035v/1AK6TZ
+title=Einreihiges Jackett aus leichtem Woll-Leinengemisch - Ready to Wear | LOUIS VUITTON
+blocked=False
+source=browser-extension

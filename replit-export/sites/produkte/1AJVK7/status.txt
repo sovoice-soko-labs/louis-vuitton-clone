@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/produkte/blouson-aus-double-face-wolle-nvprod7220215v/1AJVK7
+title=Blouson aus Double Face Wolle - Herren | LOUIS VUITTON
+blocked=False
+source=browser-extension

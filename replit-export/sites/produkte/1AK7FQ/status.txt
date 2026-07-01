@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/produkte/shorts-mit-gestickter-signatur-nvprod7610139v/1AK7FQ
+title=Shorts mit gestickter Signatur - Herren | LOUIS VUITTON
+blocked=False
+source=browser-extension

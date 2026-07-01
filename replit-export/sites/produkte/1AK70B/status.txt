@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/produkte/kurzarm-oberteil-mit-rundhalsausschnitt-und-monogram-motiv-nvprod7590101v/1AK70B
+title=Kurzarm-Oberteil mit Rundhalsausschnitt und Monogram-Motiv - Ready to Wear | LOUIS VUITTON
+blocked=False
+source=browser-extension

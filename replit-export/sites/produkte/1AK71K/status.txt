@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/produkte/kurzarm-pullover-mit-signaturen-aus-pointelle-strick-und-rundhalsausschnitt-nvprod7590048v/1AK71K
+title=Kurzarm-Pullover mit Signaturen aus Pointelle-Strick und Rundhalsausschnitt - Neuheiten Herren | LOUIS VUITTON
+blocked=False
+source=browser-extension

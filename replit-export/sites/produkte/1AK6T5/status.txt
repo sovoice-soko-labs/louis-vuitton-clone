@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/produkte/wendbare-kragenlose-jacke-mit-monogram-nvprod7590034v/1AK6T5
+title=Wendbare, kragenlose Jacke mit Monogram - Ready to Wear | LOUIS VUITTON
+blocked=False
+source=browser-extension

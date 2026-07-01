@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/produkte/t-shirt-mit-monogram-details-auf-einsatzen-aus-nylon-nvprod6320064v/1AJRME
+title=T-Shirt mit charakteristischen technischen Details - Herren | LOUIS VUITTON
+blocked=False
+source=browser-extension

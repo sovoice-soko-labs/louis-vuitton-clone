@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/produkte/kurzarmhemd-mit-monogram-motiv-nvprod7590105v/1AK728
+title=Kurzarmhemd mit Monogram-Motiv - Ready to Wear 1AK728 | LOUIS VUITTON
+blocked=False
+source=browser-extension

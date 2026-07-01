@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/produkte/kurzarmeliges-oberteil-aus-strick-mit-patchwork-motiv-in-denim-optik-und-rundhalsausschnitt-nvprod7590044v/1AK6XU
+title=Kurzärmeliges Oberteil aus Strick mit Patchwork-Motiv in Denim-Optik und Rundhalsausschnitt - Neuheiten Herren | LOUIS VUITTON
+blocked=False
+source=browser-extension

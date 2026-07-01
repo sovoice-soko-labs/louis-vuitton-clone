@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/produkte/blouson-mit-leder-und-monogram-motiv-nvprod7590040v/1AK6VP
+title=Blouson mit Leder und Monogram-Motiv - Ready to Wear 1AK6VP | LOUIS VUITTON
+blocked=False
+source=browser-extension

@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/produkte/langarm-rundhalspullover-mit-monogram-motiv-nvprod7220255v/1AJTX7
+title=Langarm-Rundhalspullover mit Monogram-Motiv - Valentinstagsgeschenke für Herren 1AJTX7 | LOUIS VUITTON
+blocked=False
+source=browser-extension

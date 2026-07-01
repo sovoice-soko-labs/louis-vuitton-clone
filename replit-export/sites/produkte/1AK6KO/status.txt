@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/produkte/trainingsjacke-aus-satin-nvprod7590019v/1AK6KO
+title=Trainingsjacke aus Satin - Ready to Wear | LOUIS VUITTON
+blocked=False
+source=browser-extension

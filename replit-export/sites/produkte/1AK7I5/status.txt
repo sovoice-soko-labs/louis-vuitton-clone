@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/produkte/strukturiertes-kurzarm-polohemd-mit-streifen-nvprod7590126v/1AK7I5
+title=Strukturiertes Kurzarm-Polohemd mit Streifen - Ready to Wear 1AK7I5 | LOUIS VUITTON
+blocked=False
+source=browser-extension

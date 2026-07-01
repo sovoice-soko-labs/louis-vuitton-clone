@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/produkte/shorts-aus-ripstop-mit-monogram-motiv-nvprod7590050v/1AK73L
+title=Shorts aus Ripstop mit Monogram-Motiv - Ready to Wear 1AK73L | LOUIS VUITTON
+blocked=False
+source=browser-extension

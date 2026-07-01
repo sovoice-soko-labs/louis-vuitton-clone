@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/produkte/kurzarmeliges-oberteil-mit-rundhalsausschnitt-und-aufnaher-mit-signatur-nvprod7590098v/1AK6ZE
+title=Kurzärmeliges Oberteil mit Rundhalsausschnitt und Aufnäher mit Signatur - Ready to Wear | LOUIS VUITTON
+blocked=False
+source=browser-extension

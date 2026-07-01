@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/produkte/sportive-trainingsjacke-aus-leder-nvprod7590038v/1AK6UY
+title=Sportive Trainingsjacke aus Leder - Ready to Wear | LOUIS VUITTON
+blocked=False
+source=browser-extension

@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/produkte/verzierte-hose-aus-denim-im-carpenter-stil-nvprod7590027v/1AK6Q5
+title=Verzierte Hose aus Denim im Carpenter-Stil - Ready to Wear | LOUIS VUITTON
+blocked=False
+source=browser-extension

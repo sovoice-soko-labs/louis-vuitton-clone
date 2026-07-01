@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/produkte/langarmeliges-hemd-mit-monogram-stripes-motiv-nvprod7590113v/1AK78S
+title=Langärmeliges Hemd mit Monogram Stripes-Motiv - Ready to Wear | LOUIS VUITTON
+blocked=False
+source=browser-extension

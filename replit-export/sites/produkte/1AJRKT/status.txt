@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/produkte/kurzarm-polohemd-mit-monogram-im-pointelle-design-nvprod7410047v/1AJRKT
+title=Kurzarm-Polohemd mit Monogram im Pointelle-Design - Ready to Wear | LOUIS VUITTON
+blocked=False
+source=browser-extension

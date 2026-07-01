@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/produkte/zweireihiges-kurzarmhemd-nvprod7590117v/1AK79V
+title=Zweireihiges Kurzarmhemd - Ready to Wear 1AK79V | LOUIS VUITTON
+blocked=False
+source=browser-extension

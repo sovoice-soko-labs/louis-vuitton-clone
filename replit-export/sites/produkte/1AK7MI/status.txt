@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/produkte/langarm-rundhalspullover-mit-geflocktem-motiv-als-farbverlauf-nvprod7540085v/1AK7MI
+title=Langarm-Rundhalspullover mit geflocktem Motiv als Farbverlauf - Neuheiten Herren | LOUIS VUITTON
+blocked=False
+source=browser-extension

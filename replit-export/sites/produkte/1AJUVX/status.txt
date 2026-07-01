@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/produkte/windjacke-zum-wenden-nvprod7220218v/1AJUVX
+title=Windjacke zum Wenden - Herren | LOUIS VUITTON
+blocked=False
+source=browser-extension

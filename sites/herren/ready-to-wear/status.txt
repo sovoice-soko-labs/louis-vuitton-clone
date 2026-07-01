@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/herren/ready-to-wear
+title=LOUIS VUITTON Offizielle Webseite Deutschland
+blocked=False
+source=browser-extension

@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/produkte/leichter-blouson-aus-verschiedenem-strick-nvprod7590083v/1AK6LF
+title=Leichter Blouson aus verschiedenem Strick - Ready to Wear | LOUIS VUITTON
+blocked=False
+source=browser-extension

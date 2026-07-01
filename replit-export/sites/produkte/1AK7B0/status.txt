@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/produkte/kurzarmhemd-aus-seide-mit-monogram-stripes-motiv-nvprod7590120v/1AK7B0
+title=Kurzarmhemd aus Seide mit Monogram Stripes-Motiv - Ready to Wear | LOUIS VUITTON
+blocked=False
+source=browser-extension

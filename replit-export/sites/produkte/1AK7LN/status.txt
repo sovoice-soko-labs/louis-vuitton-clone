@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/produkte/t-shirt-mit-geflocktem-monogram-gradient-motiv-nvprod7540084v/1AK7LN
+title=T-Shirt mit geflocktem Monogram Gradient-Motiv - Ready to Wear | LOUIS VUITTON
+blocked=False
+source=browser-extension

@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/produkte/sweatshirt-aus-jacquard-mit-monogram-motiv-nvprod7420014v/1AJRJH
+title=Sweatshirt aus Jacquard mit Monogram-Motiv - Ready to Wear | LOUIS VUITTON
+blocked=False
+source=browser-extension

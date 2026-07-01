@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/produkte/badeshorts-mit-damier-motiv-nvprod7590069v/1AK7DC
+title=Badeshorts mit Damier-Motiv - Ready to Wear | LOUIS VUITTON
+blocked=False
+source=browser-extension

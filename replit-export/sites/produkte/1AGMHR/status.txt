@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/produkte/blouson-mit-leder-samt-gestanztem-monogram-motiv-nvprod6080153v/1AGMHR
+title=Blouson mit Leder samt gestanztem Monogram-Motiv - Herren | LOUIS VUITTON
+blocked=False
+source=browser-extension

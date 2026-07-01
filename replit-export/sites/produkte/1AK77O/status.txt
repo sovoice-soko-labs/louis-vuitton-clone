@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/produkte/kurzarmhemd-aus-jacquard-mit-patchwork-motiv-nvprod7590060v/1AK77O
+title=Kurzarmhemd aus Jacquard mit Patchwork-Motiv - Ready to Wear | LOUIS VUITTON
+blocked=False
+source=browser-extension

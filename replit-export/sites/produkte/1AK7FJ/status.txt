@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/produkte/hoodie-mit-gestickter-signatur-und-reiverschluss-nvprod7590072v/1AK7FJ
+title=Hoodie mit gestickter Signatur und Reißverschluss - Ready to Wear 1AK7FJ | LOUIS VUITTON
+blocked=False
+source=browser-extension

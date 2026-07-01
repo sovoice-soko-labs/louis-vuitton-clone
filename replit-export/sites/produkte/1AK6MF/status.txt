@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/produkte/windjacke-mit-damier-motiv-nvprod7590022v/1AK6MF
+title=Windjacke mit Damier-Motiv - Ready to Wear 1AK6MF | LOUIS VUITTON
+blocked=False
+source=browser-extension

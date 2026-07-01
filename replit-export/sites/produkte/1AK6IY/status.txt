@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/produkte/t-shirt-aus-pique-mit-monogram-motiv-nvprod7220282v/1AK6IY
+title=T-Shirt aus Piqué mit Monogram-Motiv - Ready to Wear | LOUIS VUITTON
+blocked=False
+source=browser-extension

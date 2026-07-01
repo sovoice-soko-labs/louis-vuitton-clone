@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/produkte/hoodie-mit-reiverschluss-und-signatur-nvprod7540083v/1AK7KC
+title=Hoodie mit Reißverschluss und Signatur - Neuheiten Herren | LOUIS VUITTON
+blocked=False
+source=browser-extension

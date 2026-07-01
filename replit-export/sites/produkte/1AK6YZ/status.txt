@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/produkte/gestrickter-hemd-cardigan-mit-zopfmuster-nvprod7590046v/1AK6YZ
+title=Gestrickter Hemd-Cardigan mit Zopfmuster - Neuheiten Herren | LOUIS VUITTON
+blocked=False
+source=browser-extension

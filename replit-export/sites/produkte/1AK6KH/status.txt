@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/produkte/windjacke-mit-monogram-check-motiv-nvprod7590018v/1AK6KH
+title=Windjacke mit Monogram Check-Motiv - Ready to Wear | LOUIS VUITTON
+blocked=False
+source=browser-extension

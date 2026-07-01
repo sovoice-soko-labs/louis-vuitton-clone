@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/produkte/kurzarmhemd-aus-denim-mit-monogram-motiv-nvprod7590067v/1AK7C4
+title=Kurzarmhemd aus Denim mit Monogram-Motiv - Ready to Wear | LOUIS VUITTON
+blocked=False
+source=browser-extension

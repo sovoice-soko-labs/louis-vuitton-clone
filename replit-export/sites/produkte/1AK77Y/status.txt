@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/produkte/kurzarmhemd-mit-monogram-motiv-nvprod7590061v/1AK77Y
+title=Kurzarmhemd mit Monogram-Motiv - Ready to Wear 1AK77Y | LOUIS VUITTON
+blocked=False
+source=browser-extension

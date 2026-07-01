@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/produkte/overshirt-mit-leder-nvprod7590093v/1AK6WI
+title=Overshirt mit Leder - Ready to Wear | LOUIS VUITTON
+blocked=False
+source=browser-extension

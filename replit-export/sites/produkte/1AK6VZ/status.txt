@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/produkte/leichte-jacke-aus-veloursleder-im-workwear-stil-nvprod7590041v/1AK6VZ
+title=Leichte Jacke aus Veloursleder im Workwear-Stil - Ready to Wear 1AK6VZ | LOUIS VUITTON
+blocked=False
+source=browser-extension

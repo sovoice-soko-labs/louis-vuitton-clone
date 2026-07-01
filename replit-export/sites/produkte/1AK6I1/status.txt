@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/produkte/sweatshirt-mit-gestickter-signatur-nvprod7590015v/1AK6I1
+title=Sweatshirt mit gestickter Signatur - Ready to Wear | LOUIS VUITTON
+blocked=False
+source=browser-extension

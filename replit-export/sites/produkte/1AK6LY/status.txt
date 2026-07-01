@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/produkte/blouson-im-college-stil-nvprod7590021v/1AK6LY
+title=Blouson im College-Stil - Ready to Wear | LOUIS VUITTON
+blocked=False
+source=browser-extension

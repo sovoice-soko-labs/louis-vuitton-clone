@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/produkte/blouson-im-workwear-stil-aus-denim-mit-gestickter-signatur-nvprod7410023v/1AJRDR
+title=Blouson im Workwear-Stil aus Denim mit gestickter Signatur - Ready to Wear | LOUIS VUITTON
+blocked=False
+source=browser-extension

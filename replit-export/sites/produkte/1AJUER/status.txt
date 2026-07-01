@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/produkte/langarmeliges-hemd-aus-coffee-indigo-denim-nvprod7220202v/1AJUER
+title=Langärmeliges Hemd aus Coffee Indigo Denim - Herren 1AJUER | LOUIS VUITTON
+blocked=False
+source=browser-extension

@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/produkte/locker-geschnittene-chinos-nvprod7590051v/1AK73U
+title=Locker geschnittene Chinos - Ready to Wear | LOUIS VUITTON
+blocked=False
+source=browser-extension

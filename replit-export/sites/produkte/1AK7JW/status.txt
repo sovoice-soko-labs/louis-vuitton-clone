@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/produkte/kurzarm-polohemd-nvprod7590130v/1AK7JW
+title=Kurzarm-Polohemd - Ready to Wear | LOUIS VUITTON
+blocked=False
+source=browser-extension

@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/produkte/blouson-mit-kapuze-und-gestickter-signatur-nvprod7590081v/1AK6JZ
+title=Blouson mit Kapuze und gestickter Signatur - Ready to Wear | LOUIS VUITTON
+blocked=False
+source=browser-extension

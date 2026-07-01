@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/produkte/sportive-shorts-aus-seide-mit-monogram-jacquardgewebe-nvprod7590110v/1AK754
+title=Sportive Shorts aus Seide mit Monogram-Jacquardgewebe - Ready to Wear 1AK754 | LOUIS VUITTON
+blocked=False
+source=browser-extension

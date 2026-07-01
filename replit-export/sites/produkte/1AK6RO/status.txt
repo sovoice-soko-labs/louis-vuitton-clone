@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/produkte/shorts-aus-denim-im-makonfektions-stil-nvprod7540074v/1AK6RO
+title=Shorts aus Denim im Maßkonfektions-Stil - Ready to Wear | LOUIS VUITTON
+blocked=False
+source=browser-extension

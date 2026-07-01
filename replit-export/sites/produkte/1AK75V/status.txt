@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/produkte/shorts-aus-seide-mit-damier-motiv-nvprod7590055v/1AK75V
+title=Shorts aus Seide mit Damier-Motiv - Ready to Wear 1AK75V | LOUIS VUITTON
+blocked=False
+source=browser-extension

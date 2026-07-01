@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/produkte/t-shirt-aus-baumwolle-mit-gepragtem-lv-nvprod3570121v/1AA5E1
+title=T-Shirt mit LV-Prägung - Herren | LOUIS VUITTON
+blocked=False
+source=browser-extension

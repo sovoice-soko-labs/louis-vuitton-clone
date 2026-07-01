@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/produkte/hose-aus-denim-mit-weit-geschnittenem-bein-nvprod5820106v/1AGIWK
+title=Hose aus Denim mit weit geschnittenem Bein - Ready to Wear 1AGIWK | LOUIS VUITTON
+blocked=False
+source=browser-extension

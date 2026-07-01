@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/produkte/badeshorts-mit-signatur-nvprod7420012v/1AK7E9
+title=Badeshorts mit Signatur - Ready to Wear 1AK7E9 | LOUIS VUITTON
+blocked=False
+source=browser-extension

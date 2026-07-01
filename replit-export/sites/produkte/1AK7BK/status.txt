@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/produkte/kurzarmhemd-aus-seide-mit-damier-motiv-nvprod7590065v/1AK7BK
+title=Kurzarmhemd aus Seide mit Damier-Motiv - Ready to Wear 1AK7BK | LOUIS VUITTON
+blocked=False
+source=browser-extension

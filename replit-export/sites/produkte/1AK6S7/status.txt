@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/produkte/trainingsjacke-aus-pelz-nvprod7590031v/1AK6S7
+title=Trainingsjacke aus Pelz - Ready to Wear | LOUIS VUITTON
+blocked=False
+source=browser-extension

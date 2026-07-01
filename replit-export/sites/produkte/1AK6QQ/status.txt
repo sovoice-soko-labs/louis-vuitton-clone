@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/produkte/hose-im-skater-stil-mit-gestickter-signatur-nvprod7590089v/1AK6QQ
+title=Hose im Skater-Stil mit gestickter Signatur - Ready to Wear | LOUIS VUITTON
+blocked=False
+source=browser-extension

@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/produkte/pullover-aus-seidengemisch-mit-v-ausschnitt-und-zopfmuster-nvprod7590100v/1AK703
+title=Pullover aus Seidengemisch mit V-Ausschnitt und Zopfmuster - Ready to Wear | LOUIS VUITTON
+blocked=False
+source=browser-extension

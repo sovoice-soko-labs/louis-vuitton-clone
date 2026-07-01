@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/produkte/jacke-im-workwear-stil-im-makonfektions-stil-nvprod7590033v/1AK6SY
+title=Jacke im Workwear-Stil im Maßkonfektions-Stil - Ready to Wear | LOUIS VUITTON
+blocked=False
+source=browser-extension

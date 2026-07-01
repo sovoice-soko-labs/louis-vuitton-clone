@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/produkte/leichte-jacke-aus-leinen-im-workwear-stil-nvprod6310027v/1AK6G1
+title=Leichte Jacke aus Leinen im Workwear-Stil - Ready to Wear | LOUIS VUITTON
+blocked=False
+source=browser-extension

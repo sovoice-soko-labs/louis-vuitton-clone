@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/produkte/leichte-bomberjacke-mit-gepragten-signatur-details-nvprod7590024v/1AK6O0
+title=Leichte Bomberjacke mit geprägten Signatur-Details - Ready to Wear | LOUIS VUITTON
+blocked=False
+source=browser-extension

@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/produkte/chinos-aus-ripstop-mit-monogram-motiv-nvprod7590052v/1AK744
+title=Chinos aus Ripstop mit Monogram-Motiv - Ready to Wear | LOUIS VUITTON
+blocked=False
+source=browser-extension

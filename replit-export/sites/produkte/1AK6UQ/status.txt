@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/produkte/trainingsjacke-aus-leder-mit-vintage-akzenten-nvprod7590037v/1AK6UQ
+title=Trainingsjacke aus Leder mit Vintage-Akzenten - Ready to Wear | LOUIS VUITTON
+blocked=False
+source=browser-extension

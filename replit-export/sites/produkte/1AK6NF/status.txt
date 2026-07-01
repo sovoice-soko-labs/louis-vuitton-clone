@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/produkte/coach-jacke-nvprod7540072v/1AK6NF
+title=LV Signatur Coach-Jacke - Ready to Wear 1AK6NF | LOUIS VUITTON
+blocked=False
+source=browser-extension

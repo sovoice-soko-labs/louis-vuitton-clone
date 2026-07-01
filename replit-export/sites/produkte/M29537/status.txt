@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/produkte/nano-frivole-monogram-nvprod7830229v/M29537
+title=Nano Frivole Monogram Canvas - Geldbörsen und Kleinlederwaren | LOUIS VUITTON
+blocked=False
+source=browser-extension

@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/produkte/badeshorts-mit-monogram-stripes-motiv-nvprod7590121v/1AK7DM
+title=Badeshorts mit Monogram Stripes-Motiv - Ready to Wear 1AK7DM | LOUIS VUITTON
+blocked=False
+source=browser-extension

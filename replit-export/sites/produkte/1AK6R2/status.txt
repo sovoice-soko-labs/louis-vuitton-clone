@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/produkte/shorts-aus-denim-mit-monogram-motiv-nvprod7590029v/1AK6R2
+title=Shorts aus Denim mit Monogram-Motiv - Ready to Wear | LOUIS VUITTON
+blocked=False
+source=browser-extension
