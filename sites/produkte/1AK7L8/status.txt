@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/produkte/kurzarm-polohemd-mit-signatur-nvprod7590011v/1AK7L8
+title=Kurzarm-Polohemd mit Signatur - Ready to Wear 1AK7L8 | LOUIS VUITTON
+blocked=False
+source=browser-extension

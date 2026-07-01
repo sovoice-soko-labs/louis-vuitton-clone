@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/produkte/coach-jacke-aus-denim-nvprod7540070v/1AK6K6
+title=Coach-Jacke aus Denim - Ready to Wear 1AK6K6 | LOUIS VUITTON
+blocked=False
+source=browser-extension

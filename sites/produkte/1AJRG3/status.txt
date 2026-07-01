@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/produkte/eleganter-wende-blouson-mit-monogram-nvprod6060004v/1AJRG3
+title=Eleganter Wende-Blouson mit Monogram-Motiv - Ready to Wear | LOUIS VUITTON
+blocked=False
+source=browser-extension

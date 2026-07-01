@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/produkte/sommerliches-kurzarm-hemd-mit-damier-motiv-nvprod7590124v/1AKCO9
+title=Sommerliches Kurzarm-Hemd mit Damier-Motiv - Ready to Wear 1AKCO9 | LOUIS VUITTON
+blocked=False
+source=browser-extension

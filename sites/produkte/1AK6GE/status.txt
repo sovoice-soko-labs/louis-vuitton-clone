@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/produkte/shorts-aus-denim-mit-lv-signatur-nvprod6010146v/1AK6GE
+title=Shorts aus Denim mit LV Signatur - Ready to Wear | LOUIS VUITTON
+blocked=False
+source=browser-extension

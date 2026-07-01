@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/produkte/langarm-t-shirt-im-outdoor-stil-mit-waffelstruktur-nvprod7590070v/1AK7F2
+title=Langarm-T-Shirt im Outdoor-Stil mit Waffelstruktur - Ready to Wear 1AK7F2 | LOUIS VUITTON
+blocked=False
+source=browser-extension

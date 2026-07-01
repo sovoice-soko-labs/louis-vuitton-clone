@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/produkte/hose-aus-denim-im-skater-stil-nvprod5820109v/1AGIXK
+title=Hose aus Denim im Skater-Stil - Ramadan Gifts for Him | LOUIS VUITTON
+blocked=False
+source=browser-extension

@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/produkte/t-shirt-mit-gestickter-signatur-nvprod7220341v/1AJVQS
+title=T-Shirt mit gestickter Signatur - Herren 1AJVQS | LOUIS VUITTON
+blocked=False
+source=browser-extension

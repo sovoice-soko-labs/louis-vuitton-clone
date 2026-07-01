@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/produkte/gestreifte-boxershorts-aus-seide-mit-monogram-motiv-nvprod7590111v/1AK75E
+title=Gestreifte Boxershorts aus Seide mit Monogram-Motiv - Ready to Wear | LOUIS VUITTON
+blocked=False
+source=browser-extension

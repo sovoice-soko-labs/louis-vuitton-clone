@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/produkte/langarmeliges-hemd-aus-denim-mit-monogram-nvprod7220325v/1AJTWE
+title=Langärmeliges Hemd aus Denim mit Monogram - Herren | LOUIS VUITTON
+blocked=False
+source=browser-extension

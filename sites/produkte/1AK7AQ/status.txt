@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/produkte/kurzarmhemd-mit-gesticktem-offenen-kragen-nvprod7590119v/1AK7AQ
+title=Kurzarmhemd mit gesticktem offenen Kragen - Ready to Wear | LOUIS VUITTON
+blocked=False
+source=browser-extension

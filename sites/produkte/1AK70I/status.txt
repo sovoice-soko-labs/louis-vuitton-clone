@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/produkte/sommerlicher-langarmeliger-cardigan-mit-damier-motiv-nvprod7590102v/1AK70I
+title=Sommerlicher, langärmeliger Cardigan mit Damier-Motiv - Ready to Wear | LOUIS VUITTON
+blocked=False
+source=browser-extension

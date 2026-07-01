@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/produkte/2-in-1-hose-mit-monogram-check-motiv-nvprod7590053v/1AK74V
+title=2-in-1-Hose mit Monogram Check-Motiv - Ready to Wear | LOUIS VUITTON
+blocked=False
+source=browser-extension

@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/produkte/monogram-trainingsjacke-nvprod7590086v/1AK6MX
+title=Monogram Trainingsjacke - Ready to Wear 1AK6MX | LOUIS VUITTON
+blocked=False
+source=browser-extension

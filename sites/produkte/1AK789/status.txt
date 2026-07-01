@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/produkte/trucker-hemd-mit-aufgesticktem-monogram-motiv-nvprod7590112v/1AK789
+title=Trucker-Hemd mit aufgesticktem Monogram-Motiv - Ready to Wear | LOUIS VUITTON
+blocked=False
+source=browser-extension

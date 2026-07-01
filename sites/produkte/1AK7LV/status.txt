@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/produkte/t-shirt-mit-geflocktem-monogram-gradient-motiv-nvprod7540084v/1AK7LV
+title=T-Shirt mit Farbverlauf-Signaturen als Flock-Motiv - Ready to Wear | LOUIS VUITTON
+blocked=False
+source=browser-extension

@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/produkte/shorts-aus-denim-im-workwear-stil-mit-gestickten-signaturen-nvprod7410030v/1AJRE4
+title=Shorts aus Denim im Workwear-Stil mit gestickten Signaturen - Ready to Wear | LOUIS VUITTON
+blocked=False
+source=browser-extension

@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/produkte/wende-blouson-mit-monogram-motiv-fur-den-sommer-nvprod7590082v/1AK6KX
+title=Wende-Blouson mit Monogram-Motiv für den Sommer - Ready to Wear | LOUIS VUITTON
+blocked=False
+source=browser-extension

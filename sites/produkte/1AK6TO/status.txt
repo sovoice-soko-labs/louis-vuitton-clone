@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/produkte/elegantes-sommerliches-jackett-ohne-kragen-nvprod7590090v/1AK6TO
+title=Elegantes, sommerliches Jackett ohne Kragen - Ready to Wear | LOUIS VUITTON
+blocked=False
+source=browser-extension

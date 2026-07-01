@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/produkte/souvenir-jacke-aus-seidengemisch-nvprod7590084v/1AK6LO
+title=Souvenir Jacke aus Seidengemisch - Ready to Wear | LOUIS VUITTON
+blocked=False
+source=browser-extension

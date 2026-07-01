@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/produkte/kurzarm-t-shirt-mit-rundhalsausschnitt-und-signatur-nvprod7540075v/1AK70W
+title=Kurzarm-T-Shirt mit Rundhalsausschnitt und Signatur - Ready to Wear | LOUIS VUITTON
+blocked=False
+source=browser-extension

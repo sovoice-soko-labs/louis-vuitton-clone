@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/produkte/hose-aus-denim-mit-charakteristischem-patchwork-motiv-nvprod7590026v/1AKCOM
+title=Hose aus Denim mit charakteristischem Patchwork-Motiv - Ready to Wear | LOUIS VUITTON
+blocked=False
+source=browser-extension

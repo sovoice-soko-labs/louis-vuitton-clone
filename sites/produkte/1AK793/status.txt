@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/produkte/kurzarm-hemd-aus-seide-nvprod7590114v/1AK793
+title=Kurzarm-Hemd aus Seide - Ready to Wear | LOUIS VUITTON
+blocked=False
+source=browser-extension

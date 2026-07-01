@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/produkte/trainingsjacke-mit-gepragtem-monogram-motiv-nvprod7590078v/1AK6FU
+title=Trainingsjacke mit geprägtem Monogram-Motiv - Ready to Wear | LOUIS VUITTON
+blocked=False
+source=browser-extension

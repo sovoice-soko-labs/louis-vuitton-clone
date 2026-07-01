@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/produkte/weste-aus-pelz-nvprod7590032v/1AK6SP
+title=Weste aus Pelz - Ready to Wear | LOUIS VUITTON
+blocked=False
+source=browser-extension

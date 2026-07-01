@@ -1,0 +1,17 @@
+# Browser-Profile & Cookies (privat)
+.chrome-profile/
+.opera-profile/
+.cookie-listener-state.json
+cookies.json
+cookies_raw.json
+
+# macOS
+.DS_Store
+
+# Test-Artefakte (nicht Teil des Klons)
+repo-tests/
+repo-test-results.json
+static-clone/
+
+# Binaries
+goclone

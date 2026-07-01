@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/produkte/jacke-im-workwear-stil-aus-denim-mit-monogram-nvprod7590016v/1AK6JE
+title=Jacke im Workwear-Stil aus Denim mit Monogram - Ready to Wear | LOUIS VUITTON
+blocked=False
+source=browser-extension

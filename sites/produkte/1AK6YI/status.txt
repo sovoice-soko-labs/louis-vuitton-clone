@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/produkte/hybrid-shorts-aus-strick-nvprod7590095v/1AK6YI
+title=Hybrid-Shorts aus Strick - Ready to Wear | LOUIS VUITTON
+blocked=False
+source=browser-extension

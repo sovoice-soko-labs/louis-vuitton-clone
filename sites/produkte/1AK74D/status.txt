@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/produkte/zigarettenhose-aus-leinen-nvprod7590108v/1AK74D
+title=Zigarettenhose aus Leinen - Ready to Wear | LOUIS VUITTON
+blocked=False
+source=browser-extension

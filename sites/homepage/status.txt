@@ -1,0 +1,3 @@
+url=https://de.louisvuitton.com/deu-de/homepage
+title=LOUIS VUITTON Offizielle Webseite Deutschland
+blocked=False

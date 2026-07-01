@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/produkte/legere-hose-mit-gepragten-signatur-details-nvprod7590056v/1AK76D
+title=Legere Hose mit geprägten Signatur-Details - Ready to Wear | LOUIS VUITTON
+blocked=False
+source=browser-extension

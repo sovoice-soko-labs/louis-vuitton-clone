@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/produkte/kurzarmhemd-aus-bouclette-mit-offenem-kragen-und-monogram-motiv-nvprod7590118v/1AK7AG
+title=Kurzarmhemd aus Bouclette mit offenem Kragen und Monogram-Motiv - Ready to Wear | LOUIS VUITTON
+blocked=False
+source=browser-extension

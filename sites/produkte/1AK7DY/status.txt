@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/produkte/badeshorts-mit-monogram-motiv-nvprod7590122v/1AK7DY
+title=Badeshorts mit Monogram-Motiv - Ready to Wear 1AK7DY | LOUIS VUITTON
+blocked=False
+source=browser-extension

@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/produkte/truckerjacke-aus-denim-mit-verzierungen-nvprod7590017v/1AK6JO
+title=Truckerjacke aus Denim mit Verzierungen - Ready to Wear | LOUIS VUITTON
+blocked=False
+source=browser-extension

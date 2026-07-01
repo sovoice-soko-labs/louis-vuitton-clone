@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/produkte/sommerliche-strukturierte-hose-mit-zugband-nvprod7590058v/1AK76V
+title=Sommerliche, strukturierte Hose mit Zugband - Ready to Wear | LOUIS VUITTON
+blocked=False
+source=browser-extension

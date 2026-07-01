@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/produkte/kurzarmhemd-aus-denim-nvprod5820111v/1AK6FA
+title=Kurzärmeliges Hemd aus Denim - Ready to Wear | LOUIS VUITTON
+blocked=False
+source=browser-extension

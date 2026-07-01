@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/produkte/tennis-shorts-aus-terry-mit-damier-motiv-nvprod7590128v/1AK7JH
+title=Tennis-Shorts aus Terry mit Damier-Motiv - Ready to Wear | LOUIS VUITTON
+blocked=False
+source=browser-extension

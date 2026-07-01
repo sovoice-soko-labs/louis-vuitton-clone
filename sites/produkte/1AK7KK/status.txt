@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/produkte/polohemd-aus-french-terry-mit-monogram-nvprod7590131v/1AK7KK
+title=Polohemd aus French Terry mit Monogram - Ready to Wear 1AK7KK | LOUIS VUITTON
+blocked=False
+source=browser-extension

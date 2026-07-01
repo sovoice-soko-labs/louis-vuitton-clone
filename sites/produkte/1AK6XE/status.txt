@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/produkte/kurzarmeliges-oberteil-aus-baumwoll-kaschmirgemisch-mit-rundhalsausschnitt-nvprod7590043v/1AK6XE
+title=Elegantes kurzärmeliges Oberteil aus Baumwoll-Kaschmirgemisch mit Rundhalsausschnitt - Herren 1AK6XE | LOUIS VUITTON
+blocked=False
+source=browser-extension

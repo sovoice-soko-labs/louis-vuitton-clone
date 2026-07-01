@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/produkte/wende-weste-aus-leder-mit-monogram-check-motiv-nvprod7590039v/1AK6VG
+title=Wende-Weste aus Leder mit Monogram Check-Motiv - Ready to Wear | LOUIS VUITTON
+blocked=False
+source=browser-extension

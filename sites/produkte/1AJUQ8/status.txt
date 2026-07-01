@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/produkte/hose-aus-denim-im-skater-look-mit-damier-motiv-nvprod7220226v/1AJUQ8
+title=Hose aus Denim im Skater-Look mit Damier-Motiv - Herren 1AJUQ8 | LOUIS VUITTON
+blocked=False
+source=browser-extension

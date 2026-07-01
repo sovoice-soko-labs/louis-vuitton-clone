@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/produkte/field-jacke-im-makonfektions-stil-nvprod7590036v/1AK6UG
+title=Field Jacke im Maßkonfektions-Stil - Ready to Wear 1AK6UG | LOUIS VUITTON
+blocked=False
+source=browser-extension

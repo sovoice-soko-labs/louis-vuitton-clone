@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/produkte/wendbarer-blouson-mit-kapuze-aus-monogram-double-face-gewebe-nvprod7590020v/1AK6L8
+title=Wendbarer Blouson mit Kapuze aus Monogram Double Face Gewebe - Ready to Wear | LOUIS VUITTON
+blocked=False
+source=browser-extension

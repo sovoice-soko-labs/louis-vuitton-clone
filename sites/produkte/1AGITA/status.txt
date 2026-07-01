@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/produkte/blouson-aus-baumwolle-und-canvas-im-workwear-stil-nvprod5820102v/1AGITA
+title=Blouson aus Baumwolle und Canvas im Workwear-Stil - Ready to Wear 1AGITA | LOUIS VUITTON
+blocked=False
+source=browser-extension

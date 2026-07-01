@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/produkte/tennis-t-shirt-aus-terry-mit-damier-motiv-nvprod7590127v/1AK7J4
+title=Tennis-T-Shirt aus Terry mit Damier-Motiv - Ready to Wear | LOUIS VUITTON
+blocked=False
+source=browser-extension

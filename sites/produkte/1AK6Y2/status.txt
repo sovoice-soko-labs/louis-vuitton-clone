@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/produkte/gestrickte-shorts-aus-denim-mit-patchwork-motiv-nvprod7590045v/1AK6Y2
+title=Gestrickte Shorts aus Denim mit Patchwork-Motiv - Neuheiten Herren | LOUIS VUITTON
+blocked=False
+source=browser-extension

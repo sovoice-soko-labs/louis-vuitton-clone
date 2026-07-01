@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/produkte/shorts-aus-seide-mit-monogram-stripes-motiv-nvprod7590107v/1AK73D
+title=Shorts aus Seide mit Monogram Stripes-Motiv - Ready to Wear 1AK73D | LOUIS VUITTON
+blocked=False
+source=browser-extension

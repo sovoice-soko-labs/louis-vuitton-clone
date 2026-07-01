@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/produkte/einreihiges-jackett-aus-leinen-nvprod7590091v/1AK7MR
+title=Einreihiges Jackett aus Leinen - Ready to Wear | LOUIS VUITTON
+blocked=False
+source=browser-extension

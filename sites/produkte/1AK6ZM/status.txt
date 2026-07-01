@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/produkte/kurzarm-oberteil-mit-patchwork-motiv-signatur-und-rundhalsausschnitt-nvprod7590099v/1AK6ZM
+title=Kurzarm-Oberteil mit Patchwork-Motiv, Signatur und Rundhalsausschnitt - Ready to Wear | LOUIS VUITTON
+blocked=False
+source=browser-extension

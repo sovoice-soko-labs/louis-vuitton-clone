@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/produkte/langarmhemd-aus-denim-mit-patchwork-motiv-und-signatur-nvprod7590063v/1AK7A8
+title=Langarmhemd aus Denim mit Patchwork-Motiv und Signatur - Ready to Wear 1AK7A8 | LOUIS VUITTON
+blocked=False
+source=browser-extension

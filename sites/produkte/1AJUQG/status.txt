@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/produkte/langarmeliges-hemd-aus-denim-mit-damier-motiv-nvprod7220203v/1AJUQG
+title=Langärmeliges Hemd aus Denim mit Damier-Motiv - Valentinstagsgeschenke für Herren | LOUIS VUITTON
+blocked=False
+source=browser-extension

@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/produkte/kurzarmeliges-oberteil-mit-rundhalsausschnitt-und-signatur-nvprod7590096v/1AK6YQ
+title=Kurzärmeliges Oberteil mit Rundhalsausschnitt und Signatur - Ready to Wear | LOUIS VUITTON
+blocked=False
+source=browser-extension

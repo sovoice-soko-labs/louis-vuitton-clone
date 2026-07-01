@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/produkte/t-shirt-mit-gedrucktem-signatur-motiv-nvprod7430120v/1AJRDC
+title=T-Shirt mit gedrucktem Signatur-Motiv - Ready to Wear | LOUIS VUITTON
+blocked=False
+source=browser-extension

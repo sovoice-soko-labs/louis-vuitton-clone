@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/produkte/elegante-varsity-jacke-nvprod7590129v/1AK7JR
+title=Elegante Varsity Jacke - Ready to Wear | LOUIS VUITTON
+blocked=False
+source=browser-extension

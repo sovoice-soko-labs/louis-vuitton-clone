@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/produkte/cargo-hose-mit-signatur-nvprod7420003v/1AJRBM
+title=Cargo-Hose mit Signatur - Ready to Wear | LOUIS VUITTON
+blocked=False
+source=browser-extension

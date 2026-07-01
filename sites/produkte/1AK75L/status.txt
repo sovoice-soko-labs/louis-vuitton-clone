@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/produkte/boxershorts-mit-monogram-stripes-motiv-nvprod7590054v/1AK75L
+title=Boxershorts mit Monogram Stripes-Motiv - Ready to Wear | LOUIS VUITTON
+blocked=False
+source=browser-extension

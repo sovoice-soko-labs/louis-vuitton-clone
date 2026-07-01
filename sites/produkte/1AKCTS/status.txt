@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/produkte/kurzarmhemd-mit-stickerei-nvprod7590064v/1AKCTS
+title=Kurzarmhemd mit Stickerei - Ready to Wear 1AKCTS | LOUIS VUITTON
+blocked=False
+source=browser-extension

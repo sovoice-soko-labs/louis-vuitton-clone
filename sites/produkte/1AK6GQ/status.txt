@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/produkte/damier-3d-shorts-aus-leichtem-denim-nvprod7590013v/1AK6GQ
+title=Damier 3D Shorts aus leichtem Denim - Ready to Wear 1AK6GQ | LOUIS VUITTON
+blocked=False
+source=browser-extension

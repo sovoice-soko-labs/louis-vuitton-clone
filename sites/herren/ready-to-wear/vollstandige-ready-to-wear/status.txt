@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/herren/ready-to-wear/vollstandige-ready-to-wear/_/N-tmfgzj3
+title=Designer-Kleidung für Herren kaufen | LOUIS VUITTON
+blocked=False
+source=browser-extension

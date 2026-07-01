@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/produkte/kurzarmhemd-mit-stickerei-nvprod7590064v/1AK7B9
+title=Besticktes Sommerhemd - Ready to Wear | LOUIS VUITTON
+blocked=False
+source=browser-extension

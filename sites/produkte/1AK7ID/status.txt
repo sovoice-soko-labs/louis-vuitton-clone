@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/produkte/gestreiftes-kurzarm-t-shirt-nvprod7590077v/1AK7ID
+title=Gestreiftes Kurzarm-T-Shirt - Ready to Wear 1AK7ID | LOUIS VUITTON
+blocked=False
+source=browser-extension

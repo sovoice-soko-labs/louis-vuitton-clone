@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/produkte/coach-jacke-nvprod7540072v/1AK6NP
+title=Coach-Jacke - Ready to Wear | LOUIS VUITTON
+blocked=False
+source=browser-extension

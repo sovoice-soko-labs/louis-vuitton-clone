@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/produkte/zigarettenhose-aus-wolle-leinengemisch-nvprod7590057v/1AK76M
+title=Zigarettenhose aus Wolle-Leinengemisch - Ready to Wear | LOUIS VUITTON
+blocked=False
+source=browser-extension

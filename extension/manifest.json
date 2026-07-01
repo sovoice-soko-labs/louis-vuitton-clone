@@ -1,0 +1,27 @@
+{
+  "manifest_version": 3,
+  "name": "LV Seite speichern",
+  "version": "1.7",
+  "description": "Speichert die aktuelle Louis Vuitton Seite lokal",
+  "permissions": ["cookies", "tabs"],
+  "host_permissions": [
+    "https://*.louisvuitton.com/*",
+    "https://louisvuitton.com/*",
+    "http://127.0.0.1:8765/*",
+    "http://localhost:8765/*"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://*.louisvuitton.com/*", "https://louisvuitton.com/*"],
+      "js": ["content.js"],
+      "run_at": "document_idle"
+    }
+  ],
+  "action": {
+    "default_title": "LV Seite speichern",
+    "default_popup": "popup.html"
+  }
+}

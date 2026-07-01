@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/produkte/strukturiertes-jackett-nvprod6290013v/1AK6GZ
+title=Sommerliches Napolitana Jackett mit Struktur - Ready to Wear | LOUIS VUITTON
+blocked=False
+source=browser-extension

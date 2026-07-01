@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/produkte/hemd-mit-signatur-auf-der-tasche-nvprod7590066v/1AK7BU
+title=Hemd mit Signatur auf der Tasche - Ready to Wear 1AK7BU | LOUIS VUITTON
+blocked=False
+source=browser-extension

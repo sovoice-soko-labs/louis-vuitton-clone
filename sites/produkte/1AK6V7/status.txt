@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/produkte/trainingsjacke-aus-perforiertem-leder-nvprod7590092v/1AK6V7
+title=Trainingsjacke aus perforiertem Leder - Ready to Wear | LOUIS VUITTON
+blocked=False
+source=browser-extension

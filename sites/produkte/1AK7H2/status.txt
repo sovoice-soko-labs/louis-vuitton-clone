@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/produkte/t-shirt-aus-denim-mit-signaturen-nvprod7590075v/1AK7H2
+title=Kurzarm-T-Shirt mit Signatur aus Denim - Ready to Wear | LOUIS VUITTON
+blocked=False
+source=browser-extension

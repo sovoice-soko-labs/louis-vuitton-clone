@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/produkte/t-shirt-mit-schmaler-passform-und-signatur-nvprod7590074v/1AK7GT
+title=T-Shirt mit schmaler Passform und Signatur - Ready to Wear 1AK7GT | LOUIS VUITTON
+blocked=False
+source=browser-extension

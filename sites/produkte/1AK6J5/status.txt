@@ -1,0 +1,4 @@
+url=https://de.louisvuitton.com/deu-de/produkte/gelaserter-blouson-aus-denim-mit-charakteristischem-patchwork-motiv-nvprod7590080v/1AK6J5
+title=Gelaserter Blouson aus Denim mit charakteristischem Patchwork-Motiv - Ready to Wear | LOUIS VUITTON
+blocked=False
+source=browser-extension
